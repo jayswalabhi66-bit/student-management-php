@@ -1,0 +1,10 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.card-header {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+}
+.btn {
+  font-weight: 500;
+  font-size: 16px;
+}
